@@ -1,4 +1,4 @@
-# Face Sketch using WebCam and YouTube Video Downloader
+# Face Sketch using OpenCV and YouTube Video Downloader using PyTube
 The first one uses the computer's WebCam to draw a Face Sketch, while the other is a full-featured YouTube Video Downloader.
 
 ## Face-Sketch 
