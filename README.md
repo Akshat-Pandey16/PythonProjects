@@ -21,7 +21,7 @@ The first one uses the computer's WebCam to draw a Face Sketch, while the other 
  <tr>
 <td align="center"><img src="https://avatars.githubusercontent.com/u/83776030?v=4" width="180px;" alt=""/><br /><sub><b>Namshit Manikpuri</b></sub></a></td>  
 <td align="center"><img src="https://avatars.githubusercontent.com/u/82721367?v=4" width="150px;" alt=""/><br /><sub><b>Apurv Singh</b></sub></a></td>  
-<td align="center"><img src="https://github.com/Knighthawk-Leo/ML-Based-Dog-Breed-Identifier/blob/main/Images/%E2%80%94Pngtree%E2%80%94cartoon%20male%20teacher%20holding%20a_5552300.png" width="150px;" alt=""/><br /><sub><b>Abhishek Pandey</b></sub></a></td>  
+<td align="center"><img src="https://github.com/Akshat-Pandey16/PythonProjects/blob/main/Images/IMG-20211224-WA0039.jpg" width="150px;" alt=""/><br /><sub><b>Abhishek Pandey</b></sub></a></td>  
 
 </tr>
 </table>
